@@ -1,0 +1,22 @@
+{
+  "name": "habit-tracker",
+  "version": "0.0.1",
+  "description": "Backend server for habit-tracker react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesstinSwadley/habit-tracker.git"
+  },
+  "author": "Jesstin Swadley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesstinSwadley/habit-tracker/issues"
+  },
+  "homepage": "https://github.com/JesstinSwadley/habit-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
